@@ -1,9 +1,9 @@
 - I'm Davi Milhome, brasilian.
-- 
+
 Actually im getting graduate, BA in economics for a brasilian federal university.
 
 I really like to code and im looking for improve myself.  One of my objectives is become a professional programer.
--
+
 
 You can find me:
 
