@@ -1,8 +1,8 @@
 <div align="center">
   <a href="https://github.com/davimmilhome">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davimmilhome&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davimmilhome&layout=compact&langs_count=8&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=davimmilhome&repo=&https://github.com/davimmilhome/LEITOR_.RET_RETORNO_BRADESCO_CNAB400&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davimmilhome&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true",target="_blank"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davimmilhome&layout=compact&langs_count=8&theme=tokyonight",target="_blank"/>
+  <img height="120em", width="6000em" src="https://github-readme-stats.vercel.app/api/pin/?username=davimmilhome&repo=LEITOR_.RET_RETORNO_BRADESCO_CNAB400&layout=compact&langs_count=8&theme=tokyonight", target="_blank"/>
 </div>
 
 ## Able to use:
@@ -17,6 +17,8 @@
   <img align="center" alt="PHP" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="Laravel" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">
   <img align="center" alt="Django" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg">
+    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
   </div>
   
@@ -25,8 +27,7 @@
   <img align="center" alt="Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="VueJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.sv">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
   
   </div>
   
