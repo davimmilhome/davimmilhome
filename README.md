@@ -1,12 +1,21 @@
-<div align="center" style="display: inline">
-  <span>
-  <img width="350em" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=davimmilhome&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true",target="_blank"/>
-  </span>
-  <span>
-  <img width="285em" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=davimmilhome&layout=compact&langs_count=8&theme=tokyonight",target="_blank"/>
-  </span>
-  <a href="https://github.com/davimmilhome/LEITOR_RETORNO_BRADESCO_CNAB400" target="_blank"><img width="375em" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=davimmilhome&repo=LEITOR_.RET_RETORNO_BRADESCO_CNAB400&layout=compact&langs_count=8&theme=tokyonight" align="center" padding="60"/></a>
-</div> 
+<div class="container" align="center">
+<a href="https://github.com/davimmilhome/">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=davimmilhome&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" target="_blank" height="170vh"/>
+</a>
+<a href="https://github.com/davimmilhome/">
+  <img  align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=davimmilhome&layout=compact&langs_count=8&theme=tokyonight" target="_blank" height="auto" />
+</a>
+  <br></br>
+    <a href="https://github.com/davimmilhome/LEITOR_RETORNO_BRADESCO_CNAB400">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=davimmilhome&repo=LEITOR_.RET_RETORNO_BRADESCO_CNAB400&layout=compact&langs_count=8&theme=tokyonight"/>
+</a>
+  <a href="https://github.com/davimmilhome/LEITOR_RETORNO_BRADESCO_CNAB400">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=davimmilhome&repo=perfil&layout=compact&langs_count=8&theme=tokyonight"/>
+</a>
+ </div>
+ 
+ <div class="container" align="center">
+  </div>
 
 
 ## Able to use:
