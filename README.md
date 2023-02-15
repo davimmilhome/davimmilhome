@@ -9,7 +9,7 @@
     <a href="https://github.com/davimmilhome/LEITOR_RETORNO_BRADESCO_CNAB400">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=davimmilhome&repo=LEITOR_.RET_RETORNO_BRADESCO_CNAB400&layout=compact&langs_count=8&theme=tokyonight"/>
 </a>
-  <a href="https://github.com/davimmilhome/LEITOR_RETORNO_BRADESCO_CNAB400">
+  <a href="https://davimmilhome.github.io/perfil/index.html">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=davimmilhome&repo=perfil&layout=compact&langs_count=8&theme=tokyonight"/>
 </a>
  </div>
