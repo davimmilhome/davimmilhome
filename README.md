@@ -1,21 +1,19 @@
-<div class="container" align="center">
+<div class="container" align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap;">
 <a href="https://github.com/davimmilhome/">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=davimmilhome&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" target="_blank" height="170vh"/>
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=davimmilhome&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&" target="_blank" height="140px" width="400px"/>
 </a>
 <a href="https://github.com/davimmilhome/">
-  <img  align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=davimmilhome&layout=compact&langs_count=8&theme=tokyonight" target="_blank" height="auto" />
+  <img  align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=davimmilhome&layout=compact&langs_count=8&theme=tokyonight&card_width=400px" target="_blank"  height="140px" width="400px" />
 </a>
   <br></br>
-    <a href="https://github.com/davimmilhome/LEITOR_RETORNO_BRADESCO_CNAB400">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=davimmilhome&repo=LEITOR_.RET_RETORNO_BRADESCO_CNAB400&layout=compact&langs_count=8&theme=tokyonight"/>
+<!-- <a href="https://github.com/davimmilhome/LEITOR_RETORNO_BRADESCO_CNAB400">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=davimmilhome&repo=LEITOR_.RET_RETORNO_BRADESCO_CNAB400&layout=compact&langs_count=8&theme=tokyonight" height="150px" width="400px"/>
+</a> -->
+<!--   <a href="https://davimmilhome.github.io/perfil/index.html">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=davimmilhome&repo=perfil&layout=compact&langs_count=8&theme=tokyonight" height="140px" width="400px"/> -->
 </a>
-  <a href="https://davimmilhome.github.io/perfil/index.html">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=davimmilhome&repo=perfil&layout=compact&langs_count=8&theme=tokyonight"/>
-</a>
- </div>
- 
- <div class="container" align="center">
-  </div>
+</div>
+
 
 
 ## Able to use:
