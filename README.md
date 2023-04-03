@@ -2,6 +2,8 @@
 <a href="https://github.com/davimmilhome/">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=davimmilhome&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&" target="_blank"/>
 </a>
+
+  <!--
 <a href="https://github.com/davimmilhome/">
   <img  align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=davimmilhome&layout=compact&langs_count=8&theme=tokyonight&card_width=400px" target="_blank"/>
 </a>
