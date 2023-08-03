@@ -3,58 +3,31 @@
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=davimmilhome&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&" target="_blank"/>
 </a>
 
-  <!--
-<a href="https://github.com/davimmilhome/">
-  <img  align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=davimmilhome&layout=compact&langs_count=8&theme=tokyonight&card_width=400px" target="_blank"/>
-</a>
-  <br></br>
-<!-- <a href="https://github.com/davimmilhome/LEITOR_RETORNO_BRADESCO_CNAB400">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=davimmilhome&repo=LEITOR_.RET_RETORNO_BRADESCO_CNAB400&layout=compact&langs_count=8&theme=tokyonight" height="150px" width="400px"/>
-</a> -->
-<!--   <a href="https://davimmilhome.github.io/perfil/index.html">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=davimmilhome&repo=perfil&layout=compact&langs_count=8&theme=tokyonight" height="140px" width="400px"/> -->
-</a>
-</div>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right"> </br>
+
+<p align="left"> 
+  Hello, my name is Davi Milhome. <strong>Web Fullstack/RPA dev</strong>.<br>
+  Financial applications and Data enthusiast.
+</p>
+
+<p align="left">
+  🦄 languages: Python, PHP, Java, JavaScript, HTML and CSS;
+</p>
+
+<p align="left">
+  💼 Frameworks: Django, Flask, Selenium, Laravel, VueJS and Boostrap; 
+</p>
+
+<p align="left">
+  💌 Would you like to know more about my work? Send a message!: ⤵️
+</p>
+
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=davimmilhome@gmail.com" /></a>
+
+  <a href="#" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davi-milhome/" /></a>
 
 
-
-## Able to use:
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="GIT" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
-   <img align="center" alt="SQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  </div>
- 
-  ## I'm learning:
-<div style="display: inline_block"><br>
-  <img align="center" alt="PHP" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-  <img align="center" alt="Laravel" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">
-  <img align="center" alt="Django" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg">
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-  </div>
-  
-  ## I intend to learn:
-<div style="display: inline_block"><br>
-  <img align="center" alt="Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="VueJs" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-plain-wordmark.svg">
-
-  
-  </div>
-  
-  ##
-  
-  <div> 
-  <a href = "mailto:davimmilhome@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/davi-milhome-151254143/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
-
-
-
-<!---
-davimmilhome/davimmilhome is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</p>
