@@ -19,7 +19,7 @@
 </p>
 
 <p align="left">
-  💌 Would you like to know more about my work? Send a message!: ⤵️
+  💌 Would you like to know more about my work? Send a message! ⤵️
 </p>
 
 <p align="left">
