@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  🦄 languages: Python, PHP, Java, JavaScript, HTML and CSS;
+  😾 languages: Python, PHP, Java, JavaScript, HTML and CSS;
 </p>
 
 <p align="left">
