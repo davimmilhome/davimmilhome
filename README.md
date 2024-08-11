@@ -1,21 +1,32 @@
 <div class="container" align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap;">
-<a href="https://github.com/davimmilhome/">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=davimmilhome&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&" target="_blank"/>
-</a>
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=davimmilhome&theme=dark&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=davimmilhome&theme=dark&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right"> </br>
+<img src="https://files.prepinsta.com/wp-content/uploads/2020/07/python-removebg-preview.webp" min-width="250px" max-width="250px" width="250px" align="right"> </br>
 
 <p align="left"> 
-  Hello, my name is Davi Milhome. <strong>Web Fullstack/RPA dev</strong>.<br>
-  Financial applications and Data enthusiast.
+  Hello, my name is Davi Milhome. <strong></strong>.<br>
+  I'm interested on Data Science/Analysis, Financial applications and RPA development.
 </p>
 
 <p align="left">
-  😾 languages: Python, PHP, Java, JavaScript, HTML and CSS;
-</p>
-
-<p align="left">
-  💼 Frameworks: Django, Flask, Selenium, Laravel, VueJS and Boostrap; 
+  Python is my main language :)
 </p>
 
 <p align="left">
