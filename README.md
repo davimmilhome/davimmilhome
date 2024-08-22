@@ -21,7 +21,7 @@
 <img src="https://files.prepinsta.com/wp-content/uploads/2020/07/python-removebg-preview.webp" min-width="225px" max-width="250px" width="225px" align="right"> </br>
 
 <p align="left"> 
-  Hello, my name is Davi Milhome. <strong></strong><br>
+  Hello! <strong></strong><br>
   I'm interested on Data Science/Analysis, Financial applications and RPA development.
 </p>
 
