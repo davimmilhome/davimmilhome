@@ -3,18 +3,19 @@
   <tr>
     <td>
       <img
-        align="left"
+        align="center" // anteriromente era left
         src="https://github-readme-stats.vercel.app/api?username=davimmilhome&theme=dark&hide_border=false&include_all_commits=true"
         alt="Github Stats"
       />
     </td>
-    <td>
+   <!--- API CAIU
       <img
         align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=davimmilhome&theme=dark&hide_border=false"
+        src="https://github-readme-stats.vercel.app/api?username=davimmilhome"
         alt="Github Stats"
       />
     </td>
+  --->
   </tr>
 </table>
 
