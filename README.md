@@ -1,33 +1,16 @@
 <div class="container" align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap;">
 <table>
   <tr>
-    <td>
-      <img
-        align="center" // anteriromente era left
-        src="https://github-readme-stats.vercel.app/api?username=davimmilhome&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
-   <!--- API CAIU
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=davimmilhome"
-        alt="Github Stats"
-      />
-    </td>
-  --->
   </tr>
 </table>
 
 <img src="https://files.prepinsta.com/wp-content/uploads/2020/07/python-removebg-preview.webp" min-width="225px" max-width="250px" width="225px" align="right"> </br>
 
 <p align="left"> 
-  Hello! <strong></strong><br>
-  I'm interested on Data Science/Analysis, Financial applications and RPA development.
+  I'm interested on Data World, Financial applications and RPA development.
 </p>
 
 <p align="left">
-  Python is my main language :)
 </p>
 
 <p align="left">
