@@ -1,8 +1,4 @@
 <div class="container" align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap;">
-<table>
-  <tr>
-  </tr>
-</table>
 
 <img src="https://files.prepinsta.com/wp-content/uploads/2020/07/python-removebg-preview.webp" min-width="225px" max-width="250px" width="225px" align="right"> </br>
 
