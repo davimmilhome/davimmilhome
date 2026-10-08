@@ -1,24 +1,40 @@
-<div class="container" align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+```html
+<div align="center">
 
-<img src="https://files.prepinsta.com/wp-content/uploads/2020/07/python-removebg-preview.webp" min-width="225px" max-width="250px" width="225px" align="right"> </br>
+<img src="assets/data-workbench.gif" width="100%" alt="Animated data workspace with PySpark queries, transformations and charts" />
 
-<p align="left"> 
-  I'm interested on Data World, Financial applications and RPA development.
-</p>
+# Hi, I'm Davi Milhome 👋
 
-<p align="left">
-</p>
+** Data Engineering Enthusiast | Python & SQL**
 
-<p align="left">
-  💌 Would you like to know more about my work? Send a message! ⤵️
-</p>
+Turning complex data into reliable solutions, meaningful insights and better decisions.
 
-<p align="left">
-  <a href="mailto:davimmilhome@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=davimmilhome@gmail.com" /></a>
+<a href="https://www.linkedin.com/in/davi-milhome/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" alt="Connect on LinkedIn" /></a>&nbsp;
+<a href="mailto:davimmilhome@gmail.com"><img src="https://img.shields.io/badge/Email-14B8A6?style=flat-square&logo=gmail&logoColor=white" alt="Send me an email" /></a>
 
-  <a href="https://www.linkedin.com/in/davi-milhome/" alt="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davi-milhome/" /></a>
+</div>
+
+### About me
+
+I'm a **Data professional** with experience in business intelligence, data processing and automation.
+
+My professional background spans **financial services and consumer goods**, where I've worked on transforming raw data into actionable insights, building analytical solutions and automating processes.
+
+I work primarily with **Python, SQL, PySpark, Databricks and Power BI**, handling everything from data transformation and business logic to analytical models, dashboards and performance indicators.
+
+### My everyday toolkit
+
+<table>
+  <tr>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /><br /><sub>Data & automation</sub></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" /><br /><sub>Data processing</sub></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge" alt="SQL" /><br /><sub>Queries & transformations</sub></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" /><br /><sub>Data workflows</sub></td>
+  </tr>
+</table>
 
 
-</p>
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/davi-milhome/) or reach out by [email](mailto:davimmilhome@gmail.com).
+
+```
+
